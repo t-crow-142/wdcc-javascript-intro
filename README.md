@@ -1,6 +1,6 @@
 You should either clone this repository if you have Git installed on your computer or download it as a .ZIP file. 
 
-In order to open the examples and exercises in this workshop, just open any of the HTML files within the exercises directory and use the navigation bar within the HTML file to navigate between the examples and exercises. It is suggested you start by opening the home page:
+Once you have the files on your computer, in order to open the examples and exercises in this workshop, just open any of the HTML files nested within the exercises directory with your web browser. You can use the navigation bar within the HTML file to navigate between the examples and exercises. It is suggested you start by opening the home page:
 
 - exercises --> home --> home.html
 
